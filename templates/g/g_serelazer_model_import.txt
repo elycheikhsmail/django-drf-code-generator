@@ -1,0 +1,2 @@
+from .models import {{model_name}}
+#new_model_import

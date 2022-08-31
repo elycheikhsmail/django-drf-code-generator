@@ -1,0 +1,6 @@
+class {{model_name}}Serializer(serializers.ModelSerializer):
+    class Meta:
+        model = {{model_name}}
+        fields = ['id', 'text']
+        
+#new_class_def
